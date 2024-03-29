@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Cat lovers club",
+    "description": "We`ll find your cat",
+    "avatar": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/1200px-Cat03.jpg"
+  },
+  {
+    "name": "Dog lovers club",
+    "description": "We find your dog",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd2IbOb2RjAEzTskqBWwME10zE8wk-I3JuPA&usqp=CAU"
+  }
+]
